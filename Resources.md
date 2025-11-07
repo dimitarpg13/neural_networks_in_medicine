@@ -21,3 +21,5 @@ Collection of articles and books on various applications of deep learning and ne
 ## online courses and videos
 
 [MIT Course "Machine Learning for Computational Biology" by Prof Manolis Kellis and Prof. Eric Alm ](https://www.youtube.com/playlist?list=PLypiXJdtIca4gtioEPLIExlAKvu64z7rc)
+
+[Talairach Lecture | Paul Thompson | Worldwide Collaboration and Artificial Intelligence, Organization for Human Brain Mapping, 2025](https://www.youtube.com/watch?v=3iWpveOI-0E)
